@@ -1,3 +1,4 @@
+
 /*import { Banner } from "@/components/Banner";
 import { BotaoCadastro } from "@/components/BotaoCadastro";
 
@@ -52,9 +53,9 @@ export default function Home() {
   );
 }*/
 
-/*import { Componente } from "@/Components/Componente";
+/*import { Componente } from "@/Components/Componente";*/
 
-export default function Home() {
+/*export default function Home() {
   console.log("Onde eu apareço?")
   return (
     <main>
